@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\HospitalConsoleProject_Modified_Final\HospitalConsoleProject\obj\Debug\net8.0\HospitalConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HospitalConsoleProject_Modified_Final\HospitalConsoleProject\obj\Debug\net8.0\HospitalConsoleProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HospitalConsoleProject_Modified_Final\HospitalConsoleProject\obj\Debug\net8.0\HospitalConsoleProject.AssemblyInfo.cs
+C:\Users\User\Desktop\HospitalConsoleProject_Modified_Final\HospitalConsoleProject\obj\Debug\net8.0\HospitalConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HospitalConsoleProject_Modified_Final\HospitalConsoleProject\bin\Debug\net8.0\HospitalConsoleProject.exe
+C:\Users\User\Desktop\HospitalConsoleProject_Modified_Final\HospitalConsoleProject\bin\Debug\net8.0\HospitalConsoleProject.deps.json
+C:\Users\User\Desktop\HospitalConsoleProject_Modified_Final\HospitalConsoleProject\bin\Debug\net8.0\HospitalConsoleProject.runtimeconfig.json
+C:\Users\User\Desktop\HospitalConsoleProject_Modified_Final\HospitalConsoleProject\bin\Debug\net8.0\HospitalConsoleProject.dll
+C:\Users\User\Desktop\HospitalConsoleProject_Modified_Final\HospitalConsoleProject\bin\Debug\net8.0\HospitalConsoleProject.pdb
+C:\Users\User\Desktop\HospitalConsoleProject_Modified_Final\HospitalConsoleProject\obj\Debug\net8.0\HospitalConsoleProject.dll
+C:\Users\User\Desktop\HospitalConsoleProject_Modified_Final\HospitalConsoleProject\obj\Debug\net8.0\refint\HospitalConsoleProject.dll
+C:\Users\User\Desktop\HospitalConsoleProject_Modified_Final\HospitalConsoleProject\obj\Debug\net8.0\HospitalConsoleProject.pdb
+C:\Users\User\Desktop\HospitalConsoleProject_Modified_Final\HospitalConsoleProject\obj\Debug\net8.0\HospitalConsoleProject.genruntimeconfig.cache
+C:\Users\User\Desktop\HospitalConsoleProject_Modified_Final\HospitalConsoleProject\obj\Debug\net8.0\ref\HospitalConsoleProject.dll
