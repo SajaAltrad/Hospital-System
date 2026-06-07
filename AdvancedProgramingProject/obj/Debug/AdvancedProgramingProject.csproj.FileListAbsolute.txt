@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\AdvancedProgramingProject\bin\Debug\AdvancedProgramingProject.exe
+C:\Users\HP\Desktop\AdvancedProgramingProject\bin\Debug\AdvancedProgramingProject.exe.config
+C:\Users\HP\Desktop\AdvancedProgramingProject\obj\Debug\AdvancedProgramingProject.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\AdvancedProgramingProject\obj\Debug\AdvancedProgramingProject.MainForm.resources
+C:\Users\HP\Desktop\AdvancedProgramingProject\obj\Debug\AdvancedProgramingProject.Properties.Resources.resources
+C:\Users\HP\Desktop\AdvancedProgramingProject\obj\Debug\AdvancedProgramingProject.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\AdvancedProgramingProject\obj\Debug\AdvancedProgramingProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\AdvancedProgramingProject\obj\Debug\AdvancedProgramingProject.exe
+C:\Users\HP\Desktop\AdvancedProgramingProject\obj\Debug\AdvancedProgramingProject.pdb
+C:\Users\HP\Desktop\AdvancedProgramingProject\obj\Debug\AdvancedProgramingProject.exe.config
+C:\Users\HP\Desktop\AdvancedProgramingProject\bin\Debug\AdvancedProgramingProject.pdb
